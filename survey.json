@@ -1,0 +1,375 @@
+{
+  "title": "AI-Assisted Lineup Survey",
+  "showProgressBar": "top",
+  "pages": [
+    {
+      "name": "page1",
+      "elements": [
+        {
+          "name": "QID1",
+          "title": "<strong><h3>Is eyewitness memory better with Artificial Intelligence?</h3></strong>\n<hr>\n\n<p>I would like to invite you to take part in my research project. Before you decide whether to participate, I would like you to understand why the research is being conducted and what it would involve for you. Please <a href=\"mailto:damien.wang@bristol.ac.uk\">email me</a> questions if anything is unclear.</p>\n\n<p>&nbsp;</p>\n\n<h4>What is the purpose of the project?</h4>\n<p>This project aims to determine if Artificial Intelligence (Face Recognition System) can make a better lineup.</p>\n\n<p>&nbsp;</p>\n\n<h4>Why have I been invited to participate?</h4>\n<p>We are asking you to take part as we are looking to recruit a diverse sample of people, of any age, gender or ethnicity.</p>\n\n<p>&nbsp;</p>\n\n<h4>Do I have to take part?</h4>\n<p>It is up to you to decide whether you wish to participate in the project. I will describe the study and you will go through this information sheet before deciding to participate. Please ask any questions you might have. If you agree to take part, you will have to consent. You are free to withdraw at any time, without giving a reason.</p>\n\n<p>&nbsp;</p>\n\n<h4>What will happen to me if I take part and what will I have to do?</h4>\n<p>You will first watch a brief video (under 1 minute). You may be asked to play some games, like Tetris. Next you will view a police lineup. If you see the person from the video, you will pick that member. If you do not see the person from the video, you will not pick anyone. You will then rate your confidence. <strong>The experiment will take less than 10 minutes.</strong></p>\n\n<p>&nbsp;</p>\n\n<h4>What are the possible disadvantages and risks involved in taking part in the project?</h4>\n<p>There are no known risks in taking part in this experiment. In terms of data collection, no names will be collected, and you will only be identified by a number. We will be in full compliance of GDPR and the standards for data protection set out in the <a target=\"_blank\" href=\"http://www.bristol.ac.uk/secretary/data-protection/\" rel=\"noopener\">University of Bristol guidelines</a>.</p>\n\n<p>&nbsp;</p>\n\n<h4>What are the possible benefits of taking part?</h4>\n<p>This research is not designed to help individual participants personally, but the results may help the researchers learn more about eyewitness identification. We hope that, in the future, other people might benefit from this study through improved understanding of human behaviour.</p>\n\n<p>&nbsp;</p>\n\n<h4>Will my participation in this project be kept confidential?</h4>\n<p>The participation is <strong>anonymous</strong>, we do not know who the participants are. The data collected about you during the research will be kept strictly confidential. The data will be stored in secure servers. The data may be shared online on sites that are dedicated to hosting anonymised/anonymous data from research.</p>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID16",
+          "title": "<p style=\"font-size: 100%;\"></p><h2>Now let's play some <strong>Tetris</strong>!</h2><p></p> \n<br>\n<p style=\"font-size: 100%;\">The <strong>Aim</strong> in Tetris: Getting all the blocks falling from the top of the screen to fill all the empty space at the bottom of the screen. The blocks will vanish whenever you fill the blank space in a line and you will be awarded points. Your game is over if your pieces reach the top of the screen.</p> <p style=\"font-size: 150%;\"><br></p>\n\n<p style=\"font-size: 100%;\">The <strong>Rule</strong> in Tetris: You can use the <strong>left arrow</strong> and <strong>right arrow</strong>&nbsp;to move the blocks around. You can use the <strong>up arrow</strong>&nbsp;key to rotate them and <strong>down arrow</strong> key to accelerate their fall.<br><br>Set your <strong>difficulty levels</strong> (default: 5) through the text box at the bottom and click <strong>Play/Pause</strong>&nbsp;button to score!</p>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID18",
+          "title": "You will view a lineup of 6 people. The perpetrator may or may not be present.&nbsp;",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID19",
+          "title": "<iframe width=\"100%\" title=\"2048 Puzzle Game\" style=\"border:1px solid black;\" src=\"https://damien-wangzehou.github.io/Tetris/\" height=\"700\"></iframe>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID2",
+          "title": "<p style=\"font-size: 36px; color: teal;\"><Strong>Welcome!</Strong></p>\n\n<p>&nbsp;</p>\n<p>You are invited to take part in a psychological study at the University of Bristol. Before you agree to take part, please read the following information carefully and ask me if you have any questions.</p>\n\n<p>&nbsp;</p>\n\n<p>You will <Strong>not</Strong> be able to take part on a <Strong>mobile device</Strong>.</p>\n\n<p>&nbsp;</p>\n\n<p><Strong>What is the purpose of the study?</Strong></p>\n\n<p>This project aims to determine if Artificial Intelligence (Face Recognition System) can make a better lineup.</p>\n\n<p>&nbsp;</p>\n\n<p><Strong>What would taking part involve?</Strong></p>\n<p>You will first watch a brief video (under 1 minute). You may be asked to play some games, like Tetris. Next you will view a police lineup. If you see the person from the video, you will pick that member. If you do not see the person from the video, you will not pick anyone. You will then rate your confidence.</p>\n\n<p>&nbsp;</p>\n\n<p>To take part, you:</p>\n<p>\u2022 must be <strong>18+ years old</strong>;</p>\n<p>\u2022 must be fluent in <strong>English</strong>.</p>\n\n<p>&nbsp;</p>\n\nWe will ask you to provide some basic demographic information.<br><br>The experiment will take less than 10 minutes.<br>\n\n<p>&nbsp;</p>\n\n<p><Strong>Do I have to take part?</Strong></p>\n<p>It is up to you to decide whether you wish to participate in the project. I will describe the study and you will go through this information sheet before deciding to participate. Please ask any questions you might have. If you agree to take part, you will have to consent. You are free to withdraw at any time, without giving a reason.</p>\n\n<p>&nbsp;</p>\n\n<p><Strong>What happens to the data?</Strong></p>\n<p>This information will only be available to research staff and national bodies which monitor whether research studies are conducted properly. Your study data will be anonymous. This means that it will be given an identification number and there will be no identifying information about you. Therefore, it will not be possible to identify you by name from any aspect of documentation or reporting for this research study. At the end of the study your data will be stored in an online database so that it is publicly available. This means that the data will be open access.</p>\n\n<p>&nbsp;</p>\n\n<p><Strong>Are there any benefits to taking part and what will happen to the results?</Strong></p>\n<p>This research is not designed to help individual participants personally, but the results may help the researchers learn more about eyewitness identification. We hope that, in the future, other people might benefit from this study through improved understanding of human behaviour.\n\n<p>&nbsp;</p>\n\n<p><Strong>Who can I contact about the study?</Strong></p>\nIf you have any questions about this study, please ask me now or <a href=\"mailto:damien.wang@bristol.ac.uk\">email me</a> </p>\n<p>&nbsp;</p>\n<hr>\n<p>&nbsp;</p>\n<p><strong>General Data Protection Information (GDPR)</strong></p>\n\n<p>Any data you provide during the completion of the study will be stored securely on servers.</p>\n<p>&nbsp;</p>\n<p>In place are appropriate technical and organisational security measures to prevent your personal data from being accidentally lost, used or accessed in any unauthorised way or altered or disclosed.<br><br>To safeguard your rights, we will use the minimum personally-identifiable information possible (i.e., the email address you provided if you did). The lead researcher will keep your contact details confidential and will use this information only as required (i.e., to provide a summary of the study results if requested and/or for the prize draw). The principal investigator Professor Laura Mickes will keep information about your data gathered from the study for 5 years after the study has finished.</p>\n<p>&nbsp;</p>\n<p>Damien Wang and his research collaborators may look at your research records to check the accuracy of the research study. If the study is published in a relevant peer-reviewed journal, the anonymous data may be made available to third parties. The people who analyse the information will not be able to identify you.</p>\n<p>&nbsp;</p>\n<p>You can find out more about your rights under the  here <a href=\"https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted\">GDPR and Data Protection Act 2018</a> .</p>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID20",
+          "title": "<div style=\"pointer-events: none;\" id=\"player\">&nbsp;<br></div>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID21",
+          "title": "Timing",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID23",
+          "title": "<p style=\"font-size: 20px; color: black;\"><strong>Participant Debrief</strong>: Is eyewitness memory better with Artificial Intelligence?</p>\n\n\n<p>&nbsp;</p>\n\n<p>Thank you for taking part! In this experiment, you saw a video of a mock crime and tried to pick the perpetrator out of a lineup and rated how confident you were. The time you use to make the decision was also recorded.\n</p>\n<p>&nbsp;</p>\n<p>The higher an eyewitness\u2019s confidence in an identification is, the higher the accuracy tends to be. Also, the faster an eyewitness makes an identification, the higher the accuracy tends to be. Therefore, we\u2019ll see if the same holds true with our sample of people who took part.\n</p>\n\n<p>&nbsp;</p>\n\n<p>Usually, a police officer will assemble a lineup for eyewitnesses. Lineups include images of the police\u2019s suspect (who may be innocent or guilty) and several other \u201cfiller\u201d individuals. Fillers have impacts on memory performance and we are testing whether artificial intelligence, namely, the use of a Face Recognition System, for filler selection leads to higher accuracy in eyewitness identifications. This research could offer critical insights into the efficacy of integrating technology with traditional eyewitness identification procedures, potentially enhancing the reliability of such identifications in criminal justice processes.\n</p>\n\n<p>&nbsp;</p>\n\n<p>The results of this research are relevant to the criminal justice system where confidence and time to make decisions in an initial identification of the police suspect from a lineup are just now being considered by the police and courts (in the US, but not yet in the UK). There is much evidence that confidence and time to make decisions in the initial identification of a suspect is indicative of accuracy. \n</p>\n\n<p>&nbsp;</p>\n\n<p>If you have any questions or would like to learn more about this research, then please contact <a href=\"mailto:damien.wang@bristol.ac.uk\">Damien Wang</a> . \n</p>\n\n<p><br></p>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID24",
+          "title": "Timing",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID25",
+          "title": "<div style=\"display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; max-width: 600px; margin: auto;\">\n    <div class=\"image-container\" id=\"image0\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 1\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image1\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 2\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image2\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 3\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image3\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 4\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image4\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 5\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image5\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 6\" style=\"width: 100%;\"/>\n    </div>\n    <button id=\"notPresentBtn\" style=\"grid-column: span 3; padding: 10px; margin-top: 20px;\">Not Present</button>\n</div>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID27",
+          "title": "<div style=\"display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; max-width: 600px; margin: auto;\">\n    <div class=\"image-container\" id=\"image0\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 1\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image1\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 2\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image2\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 3\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image3\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 4\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image4\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 5\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image5\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 6\" style=\"width: 100%;\"/>\n    </div>\n    <button id=\"notPresentBtn\" style=\"grid-column: span 3; padding: 10px; margin-top: 20px;\">Not Present</button>\n</div>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID28",
+          "title": "<div style=\"display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; max-width: 600px; margin: auto;\">\n    <div class=\"image-container\" id=\"image0\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 1\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image1\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 2\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image2\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 3\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image3\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 4\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image4\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 5\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image5\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 6\" style=\"width: 100%;\"/>\n    </div>\n    <button id=\"notPresentBtn\" style=\"grid-column: span 3; padding: 10px; margin-top: 20px;\">Not Present</button>\n</div>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID29",
+          "title": "<div style=\"display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; max-width: 600px; margin: auto;\">\n    <div class=\"image-container\" id=\"image0\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 1\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image1\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 2\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image2\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 3\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image3\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 4\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image4\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 5\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image5\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 6\" style=\"width: 100%;\"/>\n    </div>\n    <button id=\"notPresentBtn\" style=\"grid-column: span 3; padding: 10px; margin-top: 20px;\">Not Present</button>\n</div>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID3",
+          "title": "Click here",
+          "type": "radiogroup",
+          "choices": [
+            "if you agree with to participate",
+            "if you understand that after the study the data will be made \"open data\"",
+            "if you are over 18 years old"
+          ]
+        },
+        {
+          "name": "QID30",
+          "title": "<div style=\"display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; max-width: 600px; margin: auto;\">\n    <div class=\"image-container\" id=\"image0\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 1\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image1\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 2\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image2\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 3\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image3\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 4\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image4\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 5\" style=\"width: 100%;\"/>\n    </div>\n    <div class=\"image-container\" id=\"image5\" style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\">\n        <img src=\"\" alt=\"Lineup Image 6\" style=\"width: 100%;\"/>\n    </div>\n    <button id=\"notPresentBtn\" style=\"grid-column: span 3; padding: 10px; margin-top: 20px;\">Not Present</button>\n</div>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID31",
+          "title": "<div style=\"display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; max-width: 600px; margin: auto;\">\n<div style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\" id=\"image0\" class=\"image-container\"><img style=\"width: 100%;\" src=\"\" alt=\"Lineup Image 1\"></div>\n\n<div style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\" id=\"image1\" class=\"image-container\"><img style=\"width: 100%;\" src=\"\" alt=\"Lineup Image 2\"></div>\n\n<div style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\" id=\"image2\" class=\"image-container\"><img style=\"width: 100%;\" src=\"\" alt=\"Lineup Image 3\"></div>\n\n<div style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\" id=\"image3\" class=\"image-container\"><img style=\"width: 100%;\" src=\"\" alt=\"Lineup Image 4\"></div>\n\n<div style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\" id=\"image4\" class=\"image-container\"><img style=\"width: 100%;\" src=\"\" alt=\"Lineup Image 5\"></div>\n\n<div style=\"border: 1px solid #ccc; padding: 10px; cursor: pointer;\" id=\"image5\" class=\"image-container\"><img style=\"width: 100%;\" src=\"\" alt=\"Lineup Image 6\"></div>\n<button style=\"grid-column: span 3; padding: 10px; margin-top: 20px;\" id=\"notPresentBtn\">Not Present</button></div>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID32",
+          "title": "How would you rate your confidence when you made your decision? (0% = guessing, 100% = completely certain)",
+          "type": "radiogroup",
+          "choices": [
+            "0%",
+            "10%",
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+          ]
+        },
+        {
+          "name": "QID33",
+          "title": "How many people were in the video?",
+          "type": "radiogroup",
+          "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "name": "QID38",
+          "title": "How confident are you? (0% = guessing, 100% = completely certain)",
+          "type": "radiogroup",
+          "choices": [
+            "0%",
+            "10%",
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+          ]
+        },
+        {
+          "name": "QID39",
+          "title": "How confident are you? (0% = guessing, 100% = completely certain)",
+          "type": "radiogroup",
+          "choices": [
+            "0%",
+            "10%",
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+          ]
+        },
+        {
+          "name": "QID4",
+          "title": "How old are you?",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID40",
+          "title": "How confident are you? (0% = guessing, 100% = completely certain)",
+          "type": "radiogroup",
+          "choices": [
+            "0%",
+            "10%",
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+          ]
+        },
+        {
+          "name": "QID41",
+          "title": "How confident are you? (0% = guessing, 100% = completely certain)",
+          "type": "radiogroup",
+          "choices": [
+            "0%",
+            "10%",
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+          ]
+        },
+        {
+          "name": "QID42",
+          "title": "How  confident are you? (0% = guessing, 100% = completely certain)",
+          "type": "radiogroup",
+          "choices": [
+            "0%",
+            "10%",
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+          ]
+        },
+        {
+          "name": "QID43",
+          "title": "How  confident are you? (0% = guessing, 100% = completely certain)",
+          "type": "radiogroup",
+          "choices": [
+            "0%",
+            "10%",
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+          ]
+        },
+        {
+          "name": "QID44",
+          "title": "Timing",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID45",
+          "title": "Timing",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID46",
+          "title": "Timing",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID47",
+          "title": "Timing",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID48",
+          "title": "Timing",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID49",
+          "title": "Timing",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID5",
+          "title": "How would you describe your gender?",
+          "type": "radiogroup",
+          "choices": [
+            "Male",
+            "Female",
+            "Other (please specify)",
+            "Prefer not to say"
+          ]
+        },
+        {
+          "name": "QID50",
+          "title": "If you see the person from the video, click on him. If you do not see him, click on the 'Not Present' button.",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID51",
+          "title": "If you see the person from the video, click on him. If you do not see him, click on the 'Not Present' button.",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID52",
+          "title": "If you see the person from the video, click on him. If you do not see him, click on the 'Not Present' button.",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID53",
+          "title": "If you see the person from the video, click on him. If you do not see him, click on the 'Not Present' button.",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID54",
+          "title": "If you see the person from the video, click on him. If you do not see him, click on the 'Not Present' button.",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID55",
+          "title": "If you see the person from the video, click on him. If you do not see him, click on the 'Not Present' button.",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID56",
+          "title": "Click to write the question text",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID57",
+          "title": "<p style=\"font-size: 25px; color: teal;\"><strong>Thank you very much for taking part in this study!</strong></p><strong>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Your Survey code for mTurk is <strong>BS-${e://Field/RandomSurveyID}-FS</strong>.</p></strong>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID58",
+          "title": "Please write down any comments if you might have regarding this experiment.<br>",
+          "type": "text",
+          "choices": null
+        },
+        {
+          "name": "QID6",
+          "title": "How would you describe your ethnicity?",
+          "type": "radiogroup",
+          "choices": [
+            "Asian/Indian",
+            "Black",
+            "Latin/Hispanic",
+            "Mixed",
+            "White",
+            "Other (Please specify)",
+            "Prefer not to say"
+          ]
+        },
+        {
+          "name": "QID8",
+          "title": "You are about to watch a video. Please pay close attention because you will be asked questions about it later. <br><br>You will be <strong>automatically</strong> redirected to the next page of the study once the video is finished. Click the arrow below when you are ready to watch.\n<p style=\"font-style: italic; color: #888;\">If the page doesn't automatically move forward, no worries at all! The submit arrow just like below will conveniently appear right after the video ends.</p>",
+          "type": "text",
+          "choices": null
+        }
+      ]
+    }
+  ]
+}
